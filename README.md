@@ -1,4 +1,11 @@
-### Hi there 👋
+### Привет! 👋 Меня зовут Анастасия!
+
+🔭 Занимаюсь С/С++ разработкой под микроконтроллеры и desktop.
+
+🌱 Сейчас прохожу курс "Разработчик С++" от Яндекс.Практикума.
+
+Стек:
+⭐STL ⭐Qt ⭐STM32 ⭐Python ⭐ООП ⭐OpenCV ⭐Images Processing
 
 <!--
 **a-zadorozhnaia/a-zadorozhnaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
